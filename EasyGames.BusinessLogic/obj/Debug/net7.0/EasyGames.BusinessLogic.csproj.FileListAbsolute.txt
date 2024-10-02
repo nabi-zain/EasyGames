@@ -1,0 +1,17 @@
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.BusinessLogic.deps.json
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.BusinessLogic.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.BusinessLogic.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.Interface.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.Model.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.Interface.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\bin\Debug\net7.0\EasyGames.Model.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.AssemblyInfo.cs
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.csproj.CopyComplete
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\refint\EasyGames.BusinessLogic.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\EasyGames.BusinessLogic.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.BusinessLogic\obj\Debug\net7.0\ref\EasyGames.BusinessLogic.dll

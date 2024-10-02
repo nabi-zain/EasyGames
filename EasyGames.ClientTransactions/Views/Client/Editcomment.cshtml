@@ -1,0 +1,66 @@
+﻿@model EasyGames.Model.Transaction
+@{
+    ViewData["Title"] = "New category";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- ========== MAIN ========== -->
+<main id="content" role="main" class="main">
+    <div class="content container-fluid">
+        <div class="page-header">
+            <div class="row align-items-end">
+                <div class="col-sm mb-2 mb-sm-0">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb breadcrumb-no-gutter">
+                            <li class="breadcrumb-item"><a class="breadcrumb-link" href="javascript:;">Administration</a></li>
+                            <li class="breadcrumb-item"><a class="breadcrumb-link" href="javascript:;">Comments</a></li>
+
+                        </ol>
+                    </nav>
+
+                    <h1 class="page-header-title">Edit Comments for transaction</h1>
+                </div>
+            </div>
+            <!-- End Row -->
+        </div>
+    </div>
+    <!-- End Breadcrumb Section -->
+    <!-- Content Section -->
+    <div class="content container-fluid my-n9">
+        <form class="js-validate" id="form1" method="post" asp-action="Editcomment" asp-controller="Client">
+            <div class="card">
+                <div class="card-header">
+                    <p class="card-header-title">Editing comments</p>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <!-- Form Group -->
+                            <div class="form-group">
+                                <label for="txtName" class="input-label">Comments</label>
+                                <div class="js-form-message mb-3">
+                                    <input id="txtName" type="text" class="form-control" required
+                                           data-msg="Please enter a category name." placeholder="Comments area" aria-label="Current Value" asp-for="Comment">
+                                </div>
+                            </div>
+                            <!-- End Form Group -->
+                        </div>
+                    </div>
+                    <div class="w-100"></div>
+                    <input type="hidden" asp-for="@Model.TransactionID" />
+                    <input type="hidden" asp-for="@Model.ClientID" />
+                    <!-- End Form -->
+                </div>
+                <!-- Footer -->
+                <div class="card-footer d-flex justify-content-end">
+                    <a class="btn btn-white" href="@Url.Action("Transactions", "Client", new {ClientID = Model.ClientID })">Cancel</a>
+                    <input type="submit" value="Save" class="btn btn-primary ml-2" id="btnSave" />
+                </div>
+                <!-- End Footer -->
+            </div>
+        </form>
+    </div>
+    <!-- End Content Section -->
+</main>
+<!-- ========== END MAIN ========== -->

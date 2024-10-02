@@ -1,0 +1,41 @@
+﻿@model List<EasyGames.Model.Client>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main id="content" role="main" class="main">
+    <!-- Breadcrumb Section -->
+    <partial name="_LayoutHeader" view-data='@new ViewDataDictionary(ViewData) { { "HeadingDetails", "Clients" }, { "HeadingSubTittle", "Current Clients" }, { "HeadingSubDetails", "Clients" }}' />
+
+    <!-- End Breadcrumb Section -->
+    <div class="content container-fluid my-n9">
+        <!-- Articles Section -->
+        <div class="container space-2">
+            <div class="w-lg-80 mx-lg-auto">
+                <div class="row">
+                    @foreach(var item in Model)
+                    {
+                        <div class="col-md-6 mb-3 mb-lg-0">
+                            <!-- Icon Block -->
+                            <div class="card-body">
+                                <div class="media">
+                                    <div class="media-body">
+                                        <h3>@item.Name @item.Surname</h3>
+                                        <p class="text-body">@item.ClientBalance</p>
+                                    </div>
+                                    <a class="btn btn-sm btn-soft-primary btn-pill transition-3d-hover" href="@Url.Action("Transactions", "Client", new { ClientID = item.ClientID})">View Transactions <i class="fas fa-angle-right ml-1"></i></a>
+                                    <!-- End Icon Block -->
+                                    <a class="btn btn-sm btn-soft-primary btn-pill transition-3d-hover" href="@Url.Action("Newtransaction", "Client", new { ClientID = item.ClientID})">New Transactions <i class="fas fa-angle-right ml-1"></i></a>
+                                    <!-- End Icon Block -->
+                                </div>
+                            </div>
+                            
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <!-- End Articles Section -->
+    </div>
+</main>

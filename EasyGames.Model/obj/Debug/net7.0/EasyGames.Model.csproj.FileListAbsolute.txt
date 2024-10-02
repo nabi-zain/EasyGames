@@ -1,0 +1,12 @@
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\bin\Debug\net7.0\EasyGames.Model.deps.json
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\bin\Debug\net7.0\EasyGames.Model.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\bin\Debug\net7.0\EasyGames.Model.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.csproj.AssemblyReference.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.AssemblyInfoInputs.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.AssemblyInfo.cs
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\refint\EasyGames.Model.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\EasyGames.Model.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Model\obj\Debug\net7.0\ref\EasyGames.Model.dll

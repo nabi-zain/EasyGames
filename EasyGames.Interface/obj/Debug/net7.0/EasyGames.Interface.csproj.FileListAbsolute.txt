@@ -1,0 +1,15 @@
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\bin\Debug\net7.0\EasyGames.Interface.deps.json
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\bin\Debug\net7.0\EasyGames.Interface.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\bin\Debug\net7.0\EasyGames.Interface.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\bin\Debug\net7.0\EasyGames.Model.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\bin\Debug\net7.0\EasyGames.Model.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.csproj.AssemblyReference.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.AssemblyInfoInputs.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.AssemblyInfo.cs
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.csproj.CopyComplete
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\refint\EasyGames.Interface.dll
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\EasyGames.Interface.pdb
+C:\Users\zaino\Desktop\EasyGames\EasyGames.Interface\obj\Debug\net7.0\ref\EasyGames.Interface.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EasyGames.ClientTransactions.props" />
+</Project>

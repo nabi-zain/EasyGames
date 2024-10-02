@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mvcSiteMap>
+
+	<mvcSiteMapNode mainTitle="Jobs" icon="far fa-tools">
+		<mvcSiteMapSubTitle subTitle="Bookings">
+			<mvcSiteMapSubTitleChild childTitle="Overview" controller="Bookings" action="GetAllBookings"  />
+			<mvcSiteMapSubTitleChild childTitle="Add Booking" controller="Bookings" action="Index" />
+		</mvcSiteMapSubTitle>
+	</mvcSiteMapNode>
+
+</mvcSiteMap>
+
+
